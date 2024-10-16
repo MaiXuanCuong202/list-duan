@@ -26,5 +26,9 @@
     {
         "href" : "circle-rw0z",
         "name" : "Circle"
+    },
+    {
+        "href" : "airdop-rating",
+        "name" : "Rating"
     }
 ]
