@@ -34,5 +34,13 @@
     {
         "href" : "airdrop-pip",
         "name" : "PIP"
+    },
+    {
+        "href" : "airdop-pitch",
+        "name" : "Pitch"
+    },
+    {
+        "href" : "airdrop-ton-st",
+        "name" : "TON ST"
     }
 ]
