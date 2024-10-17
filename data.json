@@ -29,18 +29,18 @@
     },
     {
         "href" : "airdop-rating",
-        "name" : "Rating"
+        "name" : "Rating mỗi 24 giờ"
     },
     {
         "href" : "airdrop-pip",
-        "name" : "PIP"
+        "name" : "PIP mỗi 5 phút"
     },
     {
         "href" : "airdop-pitch",
-        "name" : "Pitch"
+        "name" : "Pitch mỗi 6 giờ"
     },
     {
         "href" : "airdrop-ton-st",
-        "name" : "TON ST"
+        "name" : "TON ST mỗi 8 giờ"
     }
 ]
