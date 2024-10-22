@@ -1,31 +1,31 @@
 [
     {
         "href" : "ard-wukong-rrsu",
-        "name" : "Black width my wukong"
+        "name" : "Black width my wukong mỗi 10 phút"
     },
     {
         "href" : "birds-pucd",
-        "name" : "Birds"
+        "name" : "Birds mỗi 24 giờ"
     },
     {
         "href" : "airdop-coub-nnzw",
-        "name" : "Coub"
+        "name" : "Coub mỗi 24 giờ"
     },
     {
         "href" : "xkucoin-tlms",
-        "name" : "X Kucoin"
+        "name" : "X Kucoin mỗi 10 phút"
     },
     {
         "href" : "okx-xc-2c7d",
-        "name" : "Okx Xuân Cường"
+        "name" : "Okx Xuân Cường mỗi 45 phút"
     },
     {
         "href" : "okx-lq-v3kj",
-        "name" : "Okx Lê Quỳnh"
+        "name" : "Okx Lê Quỳnh mỗi 45 phút"
     },
     {
         "href" : "circle-rw0z",
-        "name" : "Circle"
+        "name" : "Circle mỗi 24 giờ"
     },
     {
         "href" : "airdop-rating",
@@ -45,6 +45,6 @@
     },
     {
         "href" : "side-kick",
-        "name" : "Side kick"
+        "name" : "Side kick mỗi 24 giờ"
     }
 ]
