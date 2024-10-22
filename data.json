@@ -42,5 +42,9 @@
     {
         "href" : "airdop-dawn-qu56",
         "name" : "Dawn"
+    },
+    {
+        "href" : "side-kick",
+        "name" : "Side kick"
     }
 ]
