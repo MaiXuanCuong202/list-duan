@@ -1,66 +1,66 @@
 [
     {
-        "href" : "ard-wukong-v1",
+        "href" : "ard-wukong-v2",
         "name" : "Black width my wukong mỗi 10 phút"
     },
     {
-        "href" : "birds-v1",
+        "href" : "birds-v2",
         "name" : "Birds mỗi 24 giờ"
     },
     {
-        "href" : "airdop-coub-v1",
+        "href" : "airdop-coub-v2",
         "name" : "Coub mỗi 24 giờ"
     },
     {
-        "href" : "xkucoin-v1",
+        "href" : "xkucoin-v2",
         "name" : "X Kucoin mỗi 10 phút"
     },
     {
-        "href" : "okx-xc-v1",
+        "href" : "okx-xc-v2",
         "name" : "Okx Xuân Cường mỗi 45 phút"
     },
     {
-        "href" : "okx-lq-v1",
+        "href" : "okx-lq-v2",
         "name" : "Okx Lê Quỳnh mỗi 45 phút"
     },
     {
-        "href" : "circle-v1",
+        "href" : "circle-v2",
         "name" : "Circle mỗi 24 giờ"
     },
     {
-        "href" : "airdop-rating",
+        "href" : "airdop-rating-v2",
         "name" : "Rating mỗi 24 giờ"
     },
     {
-        "href" : "airdrop-pip-v1",
+        "href" : "airdrop-pip-v2",
         "name" : "PIP mỗi 5 phút"
     },
     {
-        "href" : "airdop-pitch-v1",
+        "href" : "airdop-pitch-v2",
         "name" : "Pitch mỗi 6 giờ"
     },
     {
-        "href" : "airdop-dawn-v1",
+        "href" : "airdop-dawn-v2",
         "name" : "Dawn ext"
     },
     {
-        "href" : "side-kick-v1",
+        "href" : "side-kick-v2",
         "name" : "Side kick mỗi 24 giờ"
     },
     {
-        "href" : "block-mesh-v1",
+        "href" : "block-mesh-v2",
         "name" : "Block mesh ext"
     },
     {
-        "href" : "baby-dog-v1",
+        "href" : "baby-dog-v2",
         "name" : "Baby dog"
     },
     {
-        "href" : "airdop-goats-v1",
+        "href" : "airdop-goats-v2",
         "name" : "Goats"
     },
     {
-        "href" : "won-ton",
+        "href" : "won-ton-v2",
         "name" : "Won ton"
     }
 ]
