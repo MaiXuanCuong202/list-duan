@@ -1,5 +1,9 @@
 [
     {
+        "href" : "airdrop-list-cl",
+        "name" : "List dự án gộp"
+    },
+    {
         "href" : "ard-wukong-v2",
         "name" : "Black width my wukong mỗi 10 phút"
     },
