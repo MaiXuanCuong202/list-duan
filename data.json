@@ -4,71 +4,71 @@
         "name" : "List dự án gộp"
     },
     {
-        "href" : "ard-wukong-v2",
+        "href" : "ard-wukong-v3",
         "name" : "Black width my wukong mỗi 10 phút"
     },
     {
-        "href" : "airdrop-pineye-v2",
+        "href" : "airdrop-pineye-v3",
         "name" : "0Pineye mỗi 1 phút"
     },
     {
-        "href" : "birds-v2",
+        "href" : "birds-v3",
         "name" : "Birds mỗi 24 giờ"
     },
     {
-        "href" : "airdop-coub-v2",
+        "href" : "airdop-coub-v3",
         "name" : "Coub mỗi 24 giờ"
     },
     {
-        "href" : "xkucoin-v2",
+        "href" : "xkucoin-v3",
         "name" : "X Kucoin mỗi 10 phút"
     },
     {
-        "href" : "okx-xc-v2",
+        "href" : "okx-xc-v3",
         "name" : "Okx Xuân Cường mỗi 45 phút"
     },
     {
-        "href" : "okx-lq-v2",
+        "href" : "okx-lq-v3",
         "name" : "Okx Lê Quỳnh mỗi 45 phút"
     },
     {
-        "href" : "circle-v2",
+        "href" : "circle-v3",
         "name" : "Circle mỗi 24 giờ"
     },
     {
-        "href" : "airdop-rating-v2",
+        "href" : "airdop-rating-v3",
         "name" : "Rating mỗi 24 giờ"
     },
     {
-        "href" : "airdrop-pip-v2",
+        "href" : "airdrop-pip-v3",
         "name" : "PIP mỗi 5 phút"
     },
     {
-        "href" : "airdop-pitch-v2",
+        "href" : "airdop-pitch-v3",
         "name" : "Pitch mỗi 6 giờ"
     },
     {
-        "href" : "airdop-dawn-v2",
+        "href" : "airdop-dawn-v3",
         "name" : "Dawn ext"
     },
     {
-        "href" : "side-kick-v2",
+        "href" : "side-kick-v3",
         "name" : "Side kick mỗi 24 giờ"
     },
     {
-        "href" : "block-mesh-v2",
+        "href" : "block-mesh-v3",
         "name" : "Block mesh ext"
     },
     {
-        "href" : "baby-dog-v2",
-        "name" : "Baby dog"
+        "href" : "baby-dog-v3",
+        "name" : "Baby dog mỗi 10 phút"
     },
     {
-        "href" : "airdop-goats-v2",
-        "name" : "Goats"
+        "href" : "airdop-goats-v3",
+        "name" : "Goats mỗi 1 phút"
     },
     {
-        "href" : "won-ton-v2",
-        "name" : "Won ton"
+        "href" : "won-ton-v3",
+        "name" : "Won ton mỗi 3 giờ"
     }
 ]
