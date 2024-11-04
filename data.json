@@ -12,14 +12,6 @@
         "name" : "0Pineye mỗi 1 phút"
     },
     {
-        "href" : "birds-v4",
-        "name" : "Birds mỗi 24 giờ"
-    },
-    {
-        "href" : "airdop-coub-v4",
-        "name" : "Coub mỗi 24 giờ"
-    },
-    {
         "href" : "xkucoin-v4",
         "name" : "X Kucoin mỗi 10 phút"
     },
@@ -32,28 +24,12 @@
         "name" : "Okx Lê Quỳnh mỗi 45 phút"
     },
     {
-        "href" : "circle-v4",
-        "name" : "Circle mỗi 24 giờ"
-    },
-    {
-        "href" : "airdop-rating-v4",
-        "name" : "Rating mỗi 24 giờ"
-    },
-    {
         "href" : "airdrop-pip-v4",
         "name" : "PIP mỗi 5 phút"
     },
     {
-        "href" : "airdop-pitch-v4",
-        "name" : "Pitch mỗi 6 giờ"
-    },
-    {
         "href" : "airdop-dawn-v4",
         "name" : "Dawn ext"
-    },
-    {
-        "href" : "side-kick-v4",
-        "name" : "Side kick mỗi 24 giờ"
     },
     {
         "href" : "block-mesh-v4",
@@ -66,9 +42,5 @@
     {
         "href" : "airdop-goats-v4",
         "name" : "Goats mỗi 1 phút"
-    },
-    {
-        "href" : "won-ton-v4",
-        "name" : "Won ton mỗi 3 giờ"
     }
 ]
