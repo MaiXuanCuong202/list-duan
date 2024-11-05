@@ -1,7 +1,11 @@
 [
     {
-        "href" : "airdrop-list-cl-v4",
+        "href" : "airdrop-list-cl-v3",
         "name" : "List dự án gộp"
+    },
+    {
+        "href" : "airdrop-grass-v4",
+        "name" : "Grass"
     },
     {
         "href" : "ard-wukong-v4",
