@@ -8,43 +8,43 @@
         "name" : "Grass"
     },
     {
-        "href" : "ard-wukong-v4",
+        "href" : "airdrop-pineye-v4",
+        "name" : "Pineye mỗi 1 phút"
+    },
+    {
+        "href" : "ard-wukong-v5",
         "name" : "Black width my wukong mỗi 10 phút"
     },
     {
-        "href" : "airdrop-pineye-v4",
-        "name" : "0Pineye mỗi 1 phút"
-    },
-    {
-        "href" : "xkucoin-v4",
+        "href" : "xkucoin-v5",
         "name" : "X Kucoin mỗi 10 phút"
     },
     {
-        "href" : "okx-xc-v4",
+        "href" : "okx-xc-v5",
         "name" : "Okx Xuân Cường mỗi 45 phút"
     },
     {
-        "href" : "okx-lq-v4",
+        "href" : "okx-lq-v5",
         "name" : "Okx Lê Quỳnh mỗi 45 phút"
     },
     {
-        "href" : "airdrop-pip-v4",
+        "href" : "airdrop-pip-v5",
         "name" : "PIP mỗi 5 phút"
     },
     {
-        "href" : "airdop-dawn-v4",
+        "href" : "airdop-dawn-v5",
         "name" : "Dawn ext"
     },
     {
-        "href" : "block-mesh-v4",
+        "href" : "block-mesh-v5",
         "name" : "Block mesh ext"
     },
     {
-        "href" : "baby-dog-v4",
+        "href" : "baby-dog-v5",
         "name" : "Baby dog mỗi 10 phút"
     },
     {
-        "href" : "airdop-goats-v4",
+        "href" : "airdop-goats-v5",
         "name" : "Goats mỗi 1 phút"
     }
 ]
