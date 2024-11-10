@@ -12,39 +12,39 @@
         "name" : "Pineye mỗi 1 phút"
     },
     {
-        "href" : "ard-wukong-v5",
+        "href" : "ard-wukong-v6",
         "name" : "Black width my wukong mỗi 10 phút"
     },
     {
-        "href" : "xkucoin-v5",
+        "href" : "xkucoin-v6",
         "name" : "X Kucoin mỗi 10 phút"
     },
     {
-        "href" : "okx-xc-v5",
+        "href" : "okx-xc-v6",
         "name" : "Okx Xuân Cường mỗi 45 phút"
     },
     {
-        "href" : "okx-lq-v5",
+        "href" : "okx-lq-v6",
         "name" : "Okx Lê Quỳnh mỗi 45 phút"
     },
     {
-        "href" : "airdrop-pip-v5",
+        "href" : "airdrop-pip-v6",
         "name" : "PIP mỗi 5 phút"
     },
     {
-        "href" : "airdop-dawn-v5",
+        "href" : "airdop-dawn-v6",
         "name" : "Dawn ext"
     },
     {
-        "href" : "block-mesh-v5",
+        "href" : "block-mesh-v6",
         "name" : "Block mesh ext"
     },
     {
-        "href" : "baby-dog-v5",
+        "href" : "baby-dog-v6",
         "name" : "Baby dog mỗi 10 phút"
     },
     {
-        "href" : "airdop-goats-v5",
+        "href" : "airdop-goats-v6",
         "name" : "Goats mỗi 1 phút"
     }
 ]
