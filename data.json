@@ -1,1 +1,10 @@
-[]
+[
+    {
+        "href" : "airdrop-list-cl-v3",
+        "name" : "List dự án gộp"
+    },
+    {
+        "href" : "all-du-an-v7",
+        "name" : "Tất cả dự án"
+    }
+]
